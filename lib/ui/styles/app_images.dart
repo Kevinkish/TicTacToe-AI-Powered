@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 
 class AppImages {
-  static Widget logo = Image.asset("images/logo_trans.png");
-  static String logoText = "images/logo_trans.png";
+  static String game1 = "images/game_1.jpg";
+  static String game2 = "images/game_2.jpg";
+  static String game3 = "images/game_3.jpg";
 }
